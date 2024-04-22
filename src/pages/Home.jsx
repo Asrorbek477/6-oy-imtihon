@@ -1,4 +1,4 @@
-import { useCollection } from "../hooks/useColection"
+import { useCollection } from "../hooks/useCollection"
 import RecipiesList from "../components/RecipiesList";
 
 function Home() {

@@ -7,7 +7,7 @@ const [data,setData] =useState(null)
 
 useEffect(()=>{
 const getCollectionData =async()=>{
-    const querySnapshot = await getDocs(collection(db, "ricipies"));
+    const querySnapshot = await getDocs(collection(db, "recipies"));
     const allData =[];
     querySnapshot.forEach((doc) => {
     allData.push({

@@ -5,7 +5,7 @@ import { db } from "../firebase/firebaseConfig";
 
 // loader
 export const loader =async({params})=>{
-const docRef = doc(db, "ricipies",params.id);
+const docRef = doc(db, "recipies",params.id);
 const docSnap = await getDoc(docRef);
 
 if (docSnap.exists()) {

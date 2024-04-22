@@ -29,7 +29,6 @@ import { onAuthStateChanged } from 'firebase/auth'
 import { action as signupAction } from './pages/Signup'
 import { action as signinAction } from './pages/Signin'
 import { action as createAction } from './pages/Create'
-import SingleRecipe from './pages/SingleRecipe'
 
 // loader
 import {loader as singleRecipieLoader} from './pages/SingleRecipe'
