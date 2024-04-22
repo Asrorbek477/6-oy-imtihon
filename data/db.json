@@ -1,0 +1,86 @@
+{
+  "recipies": [
+    {
+      "id": "2",
+      "title": "Mastava",
+      "img": "https://chaihana19.ru/wp-content/uploads/2021/04/Машхурда.jpg",
+      "ingredients": [
+        "guruch",
+        "sabzi",
+        "go'sht",
+        "yog'",
+        "piyoz",
+        "kartoshka",
+        "tuz",
+        "suv",
+        "bolgarskiy-qalampir",
+        "pomidor"
+      ],
+      "cookingTime": "60 minutes",
+      "method": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati vel nihil tenetur rerum eos architecto delectus suscipit adipisci aut ut porro consequatur ipsum error voluptate facere sequi dicta, at sit nobis inventore sapiente placeat possimus! Id, libero. Ullam et architecto facilis magnam nobis odit repellat quam, impedit veniam tempore. Sapiente!"
+    },
+    {
+      "id": "3",
+      "title": "Sho'rva",
+      "img": "https://gzeli-dostavka.ru/uploads/webp/catalog/piccy/shurpasbaraninoj.webp",
+      "ingredients": [
+        "sabzi",
+        "go'sht",
+        "yog'",
+        "piyoz",
+        "kartoshka",
+        "tuz",
+        "suv",
+        "bolgarskiy-qalampir",
+        "pomidor"
+      ],
+      "cookingTime": "60 minutes",
+      "method": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati vel nihil tenetur rerum eos architecto delectus suscipit adipisci aut ut porro consequatur ipsum error voluptate facere sequi dicta, at sit nobis inventore sapiente placeat possimus! Id, libero. Ullam et architecto facilis magnam nobis odit repellat quam, impedit veniam tempore. Sapiente!"
+    },
+    {
+      "id": "1ec2",
+      "title": "osh",
+      "cookingTime": "120 minutes",
+      "method": "kop qadamka boir davay",
+      "img": "https://www.prpreston.ru/upload/iblock/796/796419a36b7bc5994e51c06097714f8b.jpg",
+      "ingredients": [
+        "gosh",
+        "piez",
+        "guruch",
+        "suv"
+      ]
+    },
+    {
+      "id": "ef9e",
+      "title": "BRITANSKIY ZAVTRAK SOSISKAMI ",
+      "cookingTime": "15 minutes",
+      "method": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iure quisquam repellat molestiae reiciendis cum, mollitia non eveniet doloribus maiores.",
+      "img": "https://wallbox.ru/resize/1920x1200/wallpapers/main2/201718/eda-doski-tarelka-sosiska-kartofel-vtorye-bluda.jpg",
+      "ingredients": [
+        "sosiski",
+        "yoq",
+        "tuz",
+        "tuhum"
+      ]
+    },
+    
+    {
+      "id": "fec9",
+      "title": "gg seil",
+      "cookingTime": "10 minutes",
+      "method": "go gaming bro",
+      "img": "https://ciroccodentalcenterpa.com/wp-content/uploads/foods-fight-plaque.jpg",
+      "ingredients": [
+        "gg",
+        "hh",
+        "jj",
+        "kk",
+        "ll",
+        "ff",
+        "dd",
+        "ss",
+        "aa"
+      ]
+    }
+  ]
+}
