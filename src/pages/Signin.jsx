@@ -40,7 +40,7 @@ function Signin() {
      <button type="button" onClick={signupWithGoogle} className="btn btn-secondary w-full mb-5">
       <FcGoogle className="text-3xl"/>
         <span className="text-2xl">Google</span></button>
-        <p><Link className="hover:text-violet-600" to="/signup" >Don't you have an account? Signin</Link></p>
+        <p><Link className="hover:text-violet-600" to="/signup" >Don't you have an account? Signup</Link></p>
    </div>
        </Form>
    </div>
