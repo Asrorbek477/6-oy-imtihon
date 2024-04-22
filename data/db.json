@@ -3,7 +3,7 @@
     {
       "id": "2",
       "title": "Mastava",
-      "img": "https://chaihana19.ru/wp-content/uploads/2021/04/Машхурда.jpg",
+      "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D48koj7mSpkM&psig=AOvVaw2Z9YIoTXKutnpV59Ddxlp0&ust=1713902245412000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDh0evN1oUDFQAAAAAdAAAAABAE",
       "ingredients": [
         "guruch",
         "sabzi",
@@ -13,10 +13,9 @@
         "kartoshka",
         "tuz",
         "suv",
-        "bolgarskiy-qalampir",
         "pomidor"
       ],
-      "cookingTime": "60 minutes",
+      "cookingTime": "45 minutes",
       "method": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati vel nihil tenetur rerum eos architecto delectus suscipit adipisci aut ut porro consequatur ipsum error voluptate facere sequi dicta, at sit nobis inventore sapiente placeat possimus! Id, libero. Ullam et architecto facilis magnam nobis odit repellat quam, impedit veniam tempore. Sapiente!"
     },
     {
@@ -63,7 +62,6 @@
         "tuhum"
       ]
     },
-    
     {
       "id": "fec9",
       "title": "gg seil",
@@ -81,6 +79,14 @@
         "ss",
         "aa"
       ]
+    },
+    {
+      "id": "5f96",
+      "title": "",
+      "cookingTime": " minutes",
+      "method": "",
+      "img": "",
+      "ingredients": []
     }
   ]
 }
